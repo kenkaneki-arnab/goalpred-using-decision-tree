@@ -1,1 +1,1 @@
-# goalpred-using-decision-tree
+A simple goal predictor using decision tree
